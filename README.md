@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whmJohn
 - 👀 I’m interested in ⚽️
-- 🌱 I’m currently learning computer vision and few-shot detection
+- 🌱 I’m currently learning motion planning
 - 💞️ I’m looking to collaborate on paper-work
 - 📫 How to reach me whmjohn@163.com
 
