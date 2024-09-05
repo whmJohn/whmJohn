@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @whmJohn
-- 👀 I’m interested in ⚽️
-- 🌱 I’m currently learning motion planning
-- 💞️ I’m looking to collaborate on paper-work
+- 👀 I’m interested in ⚽️ and E2EAD
+- 🌱 I’m currently learning planning
 - 📫 How to reach me whmjohn@163.com
 
 <!---
