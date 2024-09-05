@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @whmJohn
+- 👋 Hi, I’m John
 - 👀 I’m interested in ⚽️ and E2EAD
-- 🌱 I’m currently learning planning
+- 🌱 I’m currently learning E2EAD
 - 📫 How to reach me whmjohn@163.com
 
 <!---
